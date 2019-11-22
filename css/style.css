@@ -3,6 +3,7 @@
 
 /* Importing layouts */
 @import url("layouts/dashboard.css");
+
 html {
   background-color: #56baed;
 }
@@ -12,6 +13,7 @@ body {
   font-family: "Nunito", sans-serif;
   font-size: 18px;
   font-weight: 300;
+  background-color: #56baed;
 }
 p {
   font-weight: lighter;
